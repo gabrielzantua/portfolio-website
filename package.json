@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next build && next export",
     "start": "next start",
     "lint": "next lint"
   },
@@ -14,12 +15,14 @@
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18",
-    "react-hook-form": "^7.48.2"
+    "react-hook-form": "^7.48.2",
+    "three": "^0.178.0"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/three": "^0.178.1",
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
