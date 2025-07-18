@@ -5,6 +5,8 @@ The site showcases my projects, skills, and background, wrapped in sleek animati
 
 ![Screenshot](./public/preview.png)
 
+https://gabrielzantua.github.io/portfolio-website/
+
 ---
 
 ## ✨ Features
